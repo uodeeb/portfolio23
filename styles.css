@@ -92,7 +92,7 @@
     "bx-4 bx-5 bx-6"
     "bx-7 bx-8 bx-9"
     ;
-    background-image: url("/mn-bg.jpeg");
+    background-image: url("mn-bg.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
